@@ -68,7 +68,7 @@ You can control a specific site access from General menu (see screenshot below)
 
 [<img src="https://i.imgur.com/xKYlew0.png" width="600"/>](https://i.imgur.com/xKYlew0.png)
 
-### Option 3 - Configure programmatically
+### Option 3 - Block site access programmatically
 You can configure and overrides the value specified in appsettings programmatically by supplying `WhitelistSiteOptions`
 
 ```csharp
