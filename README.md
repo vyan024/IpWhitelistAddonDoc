@@ -41,7 +41,8 @@ Once the package has been installed and configured, you have a few options to tu
 ### Option 1 - Block site access in appsettings.json
 
 > **Tips**
-> Appsetting.json config will always take precedence than other options.
+> 
+> `Appsetting.json config option will always take precedence than other options.`
 
 | Name                     	| Default value     	| Description                                                                                                             	|
 |--------------------------	|-------------------	|-------------------------------------------------------------------------------------------------------------------------	|
