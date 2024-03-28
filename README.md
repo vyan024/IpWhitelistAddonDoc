@@ -40,6 +40,9 @@ Once the package has been installed and configured, you have a few options to tu
 
 ### Option 1 - Block site access in appsettings.json
 
+> **Tips**
+> Appsetting.json config will always take precedence than other options.
+
 | Name                     	| Default value     	| Description                                                                                                             	|
 |--------------------------	|-------------------	|-------------------------------------------------------------------------------------------------------------------------	|
 | AllowByPassLocalRequest  	|        true       	| Get or set the flag which decides whether local request should be allowed to access. `true` by default.                 	|
