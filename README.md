@@ -155,6 +155,14 @@ The module has extensive logging. Turn on information logging for the `IPWhiteli
 
  <a href="https://www.buymeacoffee.com/javafun"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=javafun&button_colour=FF5F5F&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
+ # Planning 
+
+ I plan to add the following features in the future
+
+- [ ] Import / Export IP / CIDR / Ignore Path
+- [ ] Restrict path(s) by for IP / CIDR (e.g. /Util/login)
+- [ ] Auditing
+
 # Limitations
 
 * This module is **NOT** designed to work with `Optimizely CMS 11` or below.
