@@ -157,10 +157,11 @@ The module has extensive logging. Turn on information logging for the `IPWhiteli
 
  # Planning 
 
- I plan to add the following features in the future
-
+ I plan to add the following features before release 1st version
 - [ ] Import / Export IP / CIDR / Ignore Path
+- [ ] CIDR IPv6 support
 - [ ] Restrict path(s) by for IP / CIDR (e.g. /Util/login)
+# Features
 - [ ] Auditing
 
 # Limitations
