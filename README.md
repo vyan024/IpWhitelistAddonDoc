@@ -10,6 +10,7 @@ This **free** module is designed for blocking/restricting access on a per site b
 [<img src="https://i.imgur.com/nnY2vzF.png" width="600"/>](https://i.imgur.com/nnY2vzF.png)
 
 - [IPWhitelist](#ipwhitelist)
+  - [Change log](#change-log)
   - [How to start](#how-to-start)
   - [How to configure](#how-to-configure)
     - [Option 1 - Block site access in appsettings.json](#option-1---block-site-access-in-appsettingsjson)
@@ -26,7 +27,9 @@ This **free** module is designed for blocking/restricting access on a per site b
 
 [![Microsoft:.NET](https://img.shields.io/badge/.NET%206-grey?style=for-the-badge&label=.NET%20Platform&labelColor=grey&color=5e31f6)](https://dotnet.microsoft.com/en-us/)    [![Optimizely](https://img.shields.io/badge/12-grey?style=for-the-badge&label=Optimizely%20CMS&labelColor=grey&color=0037fe)](https://www.optimizely.com/)  [![IPWhitelist: Nuget](https://img.shields.io/nuget/v/IPWhitelist.svg?style=for-the-badge)](https://www.nuget.org/packages/IPWhitelist/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-
+## Change log
+**1.0.0-beta.6**
+  - Fix scrolling issue in IP(s) and CIDR(s) list when there are too many entries. 
 
 ## How to start
 Install the add-on nuget package into your **Optimizely Cms Web** project, then make two lines of code change in your `Startup` file (see details in <a href="#configuration">`Configuration`</a> section). Finally, rebuild and re-run your site should be working as normal without noticing any change. 
